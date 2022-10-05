@@ -1,0 +1,43 @@
+@import "_variables.scss";
+.badges{
+    display: flex;
+    justify-content: space-around;
+    
+
+    img{
+        width: 150px;
+        height: 160px;
+    }
+}
+
+.About{
+    background-color: map-get($colors , main-color);
+    color: map-get($colors, light);
+    text-align: left;
+    padding: 5%;
+    padding: {
+        left:10%;
+        right:10%;
+    };
+    font-size: 1.3em;
+}
+
+.about-technologies{
+    display: flex;
+    flex-wrap: wrap;
+    .technologies-element{
+        text-align: center;
+        font-weight: bold;
+        height:1em;
+        width: 5em;
+        padding: 1em;
+        margin: 2%;
+        border: {
+            style:solid;
+            width:.1em;
+        }
+        &:last-child{
+           background-color:map-get($colors, call-to-action); 
+        }
+    }
+}
