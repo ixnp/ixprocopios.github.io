@@ -1,8 +1,10 @@
 @import "_variables.scss";
-a:link{
-    text-decoration: none;
-    color:inherit;
-}
-h2:hover{
-    color:map-get($colors, call-to-action);
+.Contact{
+    a:link{
+        text-decoration: none;
+        color:inherit;
+    }
+    h2:hover{
+        color:map-get($colors, call-to-action);
+    }
 }
