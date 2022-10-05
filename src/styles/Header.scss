@@ -1,0 +1,26 @@
+@import "_variables.scss";
+.banner{
+    background-color: map-get($colors , main-color);
+    padding:10% 0 10% 0;
+    margin: 3% 0 5% 0;
+    text-align: start;
+    color:map-get($colors, dark);
+    .wrapper{
+        margin-left:10%;
+    }
+    button{
+        background-color: map-get($colors, call-to-action);
+        border: none;
+        width: 10em;
+        height: 4em;
+        color:map-get($colors, light);
+        font-weight: bold;
+        letter-spacing: 0.1em;
+        border-radius: 5%;
+        a:link{
+            text-decoration: none;
+            color:inherit;
+        }
+    }
+}
+
