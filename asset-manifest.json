@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ixprocopios.github.io/static/css/main.dc607513.css",
-    "main.js": "/ixprocopios.github.io/static/js/main.df540f9a.js",
+    "main.js": "/ixprocopios.github.io/static/js/main.52f05968.js",
+    "static/media/pdf-resume.pdf": "/ixprocopios.github.io/static/media/pdf-resume.cb744a1d4d648f8c0316.pdf",
     "static/media/comptia-project-certification.1.png": "/ixprocopios.github.io/static/media/comptia-project-certification.1.055d3a2539c270ad5008.png",
     "static/media/comptia-a-ce-certification.1.png": "/ixprocopios.github.io/static/media/comptia-a-ce-certification.1.e3d489e32f0bf5e4a9da.png",
-    "static/media/Ix_Procopios_oct_2022.pdf": "/ixprocopios.github.io/static/media/Ix_Procopios_oct_2022.aeca262cb008e9d1a262.pdf",
     "index.html": "/ixprocopios.github.io/index.html",
     "main.dc607513.css.map": "/ixprocopios.github.io/static/css/main.dc607513.css.map",
-    "main.df540f9a.js.map": "/ixprocopios.github.io/static/js/main.df540f9a.js.map"
+    "main.52f05968.js.map": "/ixprocopios.github.io/static/js/main.52f05968.js.map"
   },
   "entrypoints": [
     "static/css/main.dc607513.css",
-    "static/js/main.df540f9a.js"
+    "static/js/main.52f05968.js"
   ]
 }
